@@ -12,14 +12,12 @@
 .indexContent {
     padding-left:15px;
     padding-right:15px;
-}
-
-.kali {
-    transform:rotate(90deg);
+    text-align: justify;
 }
 
 .instructorImage {
     padding-left:0px;
+    padding-right:0px;
 }
 
 .section {
@@ -54,7 +52,7 @@
 .instructor{
     padding-left:15px;
     padding-right:15px;
-    margin-bottom:5px;
+    margin-bottom:25px;
 }
 
 .instructor:hover{
